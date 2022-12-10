@@ -1,5 +1,5 @@
 public class Test2 {
 //"new featurses add"
-//some fixes are solved
+//some fixes are changed
 
 }
